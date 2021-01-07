@@ -1,0 +1,421 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6a5cde91-f929-4264-94de-3a836c866ddb" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Program Files\JetBrains\IntelliJ IDEA 2020.2.3\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1kuTXR3LN3m6CHQVwcqKpXFlcVM" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../rocketmq-all-4.7.1-source-release" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.61821526" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RebelAgentSelection">
+    <selection>jr</selection>
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.roy.rocketmq.repo" />
+      <recent name="com.roy.rocketmq.controller" />
+      <recent name="com.roy.rocketmq.domain" />
+      <recent name="com.roy.rocketmq.basic" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\a备课资料\RocketMQ\VIP课程\配套资料\rocketMQ-demo\SpringBoot-rocketmq\src\main\java\com\roy\rocketmq\config" />
+      <recent name="E:\a备课资料\RocketMQ\VIP课程\配套资料\rocketMQ-demo\src\main\java" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn clean package -Dmaven.test.skip=true" />
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.RocketMQSBApplication">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+      <method />
+    </configuration>
+    <configuration name="Consumer (1)" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.apache.rocketmq.example.ordermessage.Consumer" />
+      <module name="rocketMQ-API" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.apache.rocketmq.example.ordermessage.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Producer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.apache.rocketmq.example.simple.Producer" />
+      <module name="rocketMQ-API" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.apache.rocketmq.example.simple.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PullConsumer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.apache.rocketmq.example.simple.PullConsumer" />
+      <module name="rocketMQ-API" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.apache.rocketmq.example.simple.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PushConsumer (2)" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.apache.rocketmq.example.broadcast.PushConsumer" />
+      <module name="rocketMQ-API" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.apache.rocketmq.example.broadcast.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringRocketTest.sendMessageTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SpringBoot-rocketmq" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.roy.rocketmq.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.roy.rocketmq" />
+      <option name="MAIN_CLASS_NAME" value="com.roy.rocketmq.SpringRocketTest" />
+      <option name="METHOD_NAME" value="sendMessageTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RocketMQSBApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="SpringBoot-rocketmq" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.roy.rocketmq.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.roy.rocketmq.RocketMQSBApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Consumer (1)" />
+      <item itemvalue="Application.PushConsumer (2)" />
+      <item itemvalue="Application.Producer" />
+      <item itemvalue="Application.PullConsumer" />
+      <item itemvalue="JUnit.SpringRocketTest.sendMessageTest" />
+      <item itemvalue="Spring Boot.RocketMQSBApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.RocketMQSBApplication" />
+        <item itemvalue="JUnit.SpringRocketTest.sendMessageTest" />
+        <item itemvalue="Application.PullConsumer" />
+        <item itemvalue="Application.Producer" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6a5cde91-f929-4264-94de-3a836c866ddb" name="Default Changelist" comment="" />
+      <created>1606549515492</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606549515492</updated>
+      <workItem from="1606549519403" duration="7613000" />
+      <workItem from="1606803718172" duration="9357000" />
+      <workItem from="1606871999084" duration="12728000" />
+      <workItem from="1607043493842" duration="11175000" />
+      <workItem from="1607390694634" duration="10022000" />
+      <workItem from="1607474457909" duration="612000" />
+      <workItem from="1607475656087" duration="201000" />
+      <workItem from="1607519559180" duration="3479000" />
+      <workItem from="1607587276459" duration="3373000" />
+      <workItem from="1607647499273" duration="1358000" />
+      <workItem from="1607911981877" duration="489000" />
+      <workItem from="1607912850546" duration="10052000" />
+      <workItem from="1607926902324" duration="13000" />
+      <workItem from="1607927167394" duration="1236000" />
+      <workItem from="1607933992728" duration="2892000" />
+      <workItem from="1608080292284" duration="4000" />
+      <workItem from="1608097607405" duration="1824000" />
+      <workItem from="1608110174953" duration="6631000" />
+      <workItem from="1608184567480" duration="1586000" />
+      <workItem from="1608298706546" duration="2475000" />
+      <workItem from="1608513895104" duration="311000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="0" y="0" key="#Project_Structure" timestamp="1607521153858">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="0" y="0" key="#Project_Structure/0.0.1280.680@0.0.1280.680" timestamp="1607521153858" />
+    <state x="249" y="0" key="#Project_Structure/0.0.1536.824/1920.0.1440.860@0.0.1536.824" timestamp="1606893269697" />
+    <state x="249" y="0" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1606804099412" />
+    <state x="149" y="0" width="1131" height="680" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1608299429446">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="149" y="0" width="1131" height="680" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1608299429446" />
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824/1920.0.1440.860@0.0.1536.824" timestamp="1606889487421" />
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1606815708723" />
+    <state x="281" y="333" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1606550195703">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="281" y="333" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1536.824@0.0.1536.824" timestamp="1606550195703" />
+    <state x="540" y="290" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1606550198676">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="540" y="290" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1536.824@0.0.1536.824" timestamp="1606550198676" />
+    <state x="673" y="0" key="#xdebugger.evaluate" timestamp="1608127224753">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="673" y="0" key="#xdebugger.evaluate/0.0.1280.680@0.0.1280.680" timestamp="1608127224753" />
+    <state x="871" y="78" key="#xdebugger.evaluate/0.0.1536.824@0.0.1536.824" timestamp="1607047024915" />
+    <state width="451" height="466" key="DebuggerActiveHint" timestamp="1607419491958">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="451" height="466" key="DebuggerActiveHint/0.0.1536.824/-1920.0.1280.680@0.0.1536.824" timestamp="1607419491958" />
+    <state width="451" height="466" key="DebuggerActiveHint/0.0.1536.824@0.0.1536.824" timestamp="1606553164561" />
+    <state x="413" y="74" key="FileChooserDialogImpl" timestamp="1608128506728">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="413" y="74" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1608128506728" />
+    <state x="496" y="109" key="FileChooserDialogImpl/0.0.1536.824/-1920.0.1280.680@0.0.1536.824" timestamp="1607923883570" />
+    <state width="1225" height="353" key="GridCell.Tab.0.bottom" timestamp="1608302640428">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1225" height="353" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1608302640428" />
+    <state width="1481" height="314" key="GridCell.Tab.0.bottom/0.0.1536.824/-1920.0.1280.680@0.0.1536.824" timestamp="1608191441281" />
+    <state width="1493" height="178" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1440.860@0.0.1536.824" timestamp="1606895191269" />
+    <state width="1493" height="53" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1607077372480" />
+    <state width="1225" height="353" key="GridCell.Tab.0.center" timestamp="1608302640428">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1225" height="353" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1608302640428" />
+    <state width="1481" height="314" key="GridCell.Tab.0.center/0.0.1536.824/-1920.0.1280.680@0.0.1536.824" timestamp="1608191441281" />
+    <state width="1493" height="178" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1440.860@0.0.1536.824" timestamp="1606895191269" />
+    <state width="1493" height="53" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1607077372480" />
+    <state width="1225" height="353" key="GridCell.Tab.0.left" timestamp="1608302640428">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1225" height="353" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1608302640428" />
+    <state width="1481" height="314" key="GridCell.Tab.0.left/0.0.1536.824/-1920.0.1280.680@0.0.1536.824" timestamp="1608191441280" />
+    <state width="1493" height="178" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1440.860@0.0.1536.824" timestamp="1606895191269" />
+    <state width="1493" height="53" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1607077372479" />
+    <state width="1225" height="353" key="GridCell.Tab.0.right" timestamp="1608302640428">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1225" height="353" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1608302640428" />
+    <state width="1481" height="314" key="GridCell.Tab.0.right/0.0.1536.824/-1920.0.1280.680@0.0.1536.824" timestamp="1608191441281" />
+    <state width="1493" height="178" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1440.860@0.0.1536.824" timestamp="1606895191269" />
+    <state width="1493" height="53" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1607077372480" />
+    <state width="1225" height="252" key="GridCell.Tab.1.bottom" timestamp="1608302640406">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1225" height="252" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1608302640406" />
+    <state width="1481" height="314" key="GridCell.Tab.1.bottom/0.0.1536.824/-1920.0.1280.680@0.0.1536.824" timestamp="1608191441281" />
+    <state width="1493" height="178" key="GridCell.Tab.1.bottom/0.0.1536.824/1920.0.1440.860@0.0.1536.824" timestamp="1606895191270" />
+    <state width="1493" height="53" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1607077372480" />
+    <state width="1225" height="252" key="GridCell.Tab.1.center" timestamp="1608302640406">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1225" height="252" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1608302640406" />
+    <state width="1481" height="314" key="GridCell.Tab.1.center/0.0.1536.824/-1920.0.1280.680@0.0.1536.824" timestamp="1608191441281" />
+    <state width="1493" height="178" key="GridCell.Tab.1.center/0.0.1536.824/1920.0.1440.860@0.0.1536.824" timestamp="1606895191270" />
+    <state width="1493" height="53" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1607077372480" />
+    <state width="1225" height="252" key="GridCell.Tab.1.left" timestamp="1608302640406">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1225" height="252" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1608302640406" />
+    <state width="1481" height="314" key="GridCell.Tab.1.left/0.0.1536.824/-1920.0.1280.680@0.0.1536.824" timestamp="1608191441281" />
+    <state width="1493" height="178" key="GridCell.Tab.1.left/0.0.1536.824/1920.0.1440.860@0.0.1536.824" timestamp="1606895191269" />
+    <state width="1493" height="53" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1607077372480" />
+    <state width="1225" height="252" key="GridCell.Tab.1.right" timestamp="1608302640406">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1225" height="252" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1608302640406" />
+    <state width="1481" height="314" key="GridCell.Tab.1.right/0.0.1536.824/-1920.0.1280.680@0.0.1536.824" timestamp="1608191441281" />
+    <state width="1493" height="178" key="GridCell.Tab.1.right/0.0.1536.824/1920.0.1440.860@0.0.1536.824" timestamp="1606895191270" />
+    <state width="1493" height="53" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1607077372480" />
+    <state width="1225" height="242" key="GridCell.Tab.2.bottom" timestamp="1608173173079">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1225" height="242" key="GridCell.Tab.2.bottom/0.0.1280.680@0.0.1280.680" timestamp="1608127919180" />
+    <state width="1225" height="242" key="GridCell.Tab.2.bottom/0.0.1536.824/-1920.0.1280.680@0.0.1536.824" timestamp="1608173173079" />
+    <state width="1493" height="53" key="GridCell.Tab.2.bottom/0.0.1536.824@0.0.1536.824" timestamp="1607077372480" />
+    <state width="1225" height="242" key="GridCell.Tab.2.center" timestamp="1608173173079">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1225" height="242" key="GridCell.Tab.2.center/0.0.1280.680@0.0.1280.680" timestamp="1608127919180" />
+    <state width="1225" height="242" key="GridCell.Tab.2.center/0.0.1536.824/-1920.0.1280.680@0.0.1536.824" timestamp="1608173173079" />
+    <state width="1493" height="53" key="GridCell.Tab.2.center/0.0.1536.824@0.0.1536.824" timestamp="1607077372480" />
+    <state width="1225" height="242" key="GridCell.Tab.2.left" timestamp="1608173173079">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1225" height="242" key="GridCell.Tab.2.left/0.0.1280.680@0.0.1280.680" timestamp="1608127919180" />
+    <state width="1225" height="242" key="GridCell.Tab.2.left/0.0.1536.824/-1920.0.1280.680@0.0.1536.824" timestamp="1608173173079" />
+    <state width="1493" height="53" key="GridCell.Tab.2.left/0.0.1536.824@0.0.1536.824" timestamp="1607077372480" />
+    <state width="1225" height="242" key="GridCell.Tab.2.right" timestamp="1608173173079">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1225" height="242" key="GridCell.Tab.2.right/0.0.1280.680@0.0.1280.680" timestamp="1608127919180" />
+    <state width="1225" height="242" key="GridCell.Tab.2.right/0.0.1536.824/-1920.0.1280.680@0.0.1536.824" timestamp="1608173173079" />
+    <state width="1493" height="53" key="GridCell.Tab.2.right/0.0.1536.824@0.0.1536.824" timestamp="1607077372480" />
+    <state x="242" y="0" key="SettingsEditor" timestamp="1608099523208">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="242" y="0" key="SettingsEditor/0.0.1536.824/-1920.0.1280.680@0.0.1536.824" timestamp="1608099523208" />
+    <state x="262" y="56" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1606549837968" />
+    <state x="490" y="154" width="540" height="524" key="StructurePopup" timestamp="1607065614267">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="490" y="154" width="540" height="524" key="StructurePopup/0.0.1536.824@0.0.1536.824" timestamp="1607065614267" />
+    <state x="389" y="16" width="714" height="664" key="find.popup" timestamp="1608298863259">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="389" y="16" width="714" height="664" key="find.popup/0.0.1280.680@0.0.1280.680" timestamp="1608298863259" />
+    <state x="467" y="145" width="711" height="664" key="find.popup/0.0.1536.824/-1920.0.1280.680@0.0.1536.824" timestamp="1608170920156" />
+    <state x="467" y="145" width="640" height="534" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1607047947119" />
+    <state x="178" y="72" key="new project wizard" timestamp="1606555273828">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="178" y="72" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1606555273828" />
+    <state x="425" y="187" width="672" height="677" key="run.anything.popup" timestamp="1606809532279">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="187" width="672" height="677" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1606809532279" />
+    <state x="431" y="145" width="840" height="678" key="search.everywhere.popup" timestamp="1608110281049">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="840" height="678" key="search.everywhere.popup/0.0.1536.824/-1920.0.1280.680@0.0.1536.824" timestamp="1608110281049" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1607065592823" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/rocketMQ-API/src/main/java/org/apache/rocketmq/example/quickstart/Producer.java</url>
+          <line>50</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/SpringBoot-rocketmq/src/main/java/com/roy/rocketmq/config/MyTransactionImpl.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
